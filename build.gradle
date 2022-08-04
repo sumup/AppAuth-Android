@@ -37,8 +37,8 @@ try {
         project.ext.versionName = 'DEV'
     }
 } catch (Exception ignored) {
-    project.ext.versionNum = 0
-    project.ext.versionName = 'DEV'
+    project.ext.versionNum = 266
+    project.ext.versionName = '0.8.0'
     project.ext.versionDate = new Date()
 }
 
